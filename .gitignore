@@ -1,8 +1,3 @@
 .DS_Store
 wandb
-.idea/AI-DL.iml
-.idea/inspectionProfiles
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea
