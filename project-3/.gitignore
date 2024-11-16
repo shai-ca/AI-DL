@@ -1,0 +1,6 @@
+*.csv
+*.pdf
+*.docx
+*.txt
+logs/
+results/
